@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/detail/detail",
+        "pages/webview/webview"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#019DD6",
+        "navigationBarTextStyle": "white",
+        "backgroundTextStyle": "dark",
+        "enablePullDownRefresh": true
+    }
+}

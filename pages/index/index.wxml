@@ -1,0 +1,6 @@
+<view style="height:100%;width:100%;">
+    <!--首页轮播图 -->
+    <slider style="margin: 0" dataSource="{{siderData}}" bindclick="toDetailPage"></slider>
+    <!-- 日报列表 -->
+    <nlist dataSource="{{pageData}}" bindclick="toDetailPage"></nlist>
+</view>

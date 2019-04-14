@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+        "slider": "../../components/slider/slider",
+        "nlist": "../../components/nlist/nlist"
+    },
+    "navigationBarTitleText": "知乎日报",
+    "onReachBottomDistance": 100
+}
